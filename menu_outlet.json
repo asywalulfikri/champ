@@ -1,0 +1,28 @@
+{
+  "message": "Success Retrieve Data",
+  "code": 200,
+  "status": "Success",
+  "data": [
+    {
+      "id": 1,
+      "name": "The Monsieur Spoon Croissant",
+      "url_image": "https://www.monsieurspoon.com/wp-content/uploads/2021/07/Marzipan-Almond2.jpeg",
+      "Price": 100000,
+      "description": "Authentic French buttery, flaky croissant "
+    },
+    {
+      "id": 2,
+      "name": "Must Try Chocolate",
+      "url_image": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+      "Price": 300000,
+      "description": "an original French pastry made with cr..."
+    },
+ {
+      "id": 3,
+      "name": "Cheese Croissant",
+      "url_image": "https://frenchbakery.cafe/wp-content/uploads/2020/08/Cheese-Croissant-2-1.jpg",
+      "Price": 250000,
+      "description": "Traditional french croissant with melte..."
+    }
+  ]
+}
