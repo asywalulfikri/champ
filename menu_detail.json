@@ -6,73 +6,62 @@
     "id": 1,
     "name": "The Monsieur Spoon Croissant",
     "url_image": "https://www.monsieurspoon.com/wp-content/uploads/2021/07/Marzipan-Almond2.jpeg",
-    "Price": 100000,
+    "price": 100000,
     "description": "Authentic French buttery, flaky croissant",
-    "customization": {
-      "size": {
-        "label": "Size",
-        "options": [
+    "customization": [
+      {
+        "title": "Add On Sugar",
+        "note": "Tidak Wajib, maks 1",
+        "type": "checkbox",
+        "request": [
           {
-            "value": "Regular",
-            "price_change": 0
+            "value": "stevia",
+            "price": 5000
           },
           {
-            "value": "Large",
-            "price_change": 20000
+            "value": "Tropica Slim",
+            "price": 7000
           }
         ]
       },
-      "topping": {
-        "label": "Toppings",
-        "options": [
+      {
+        "title": "Request Ice",
+        "note": "Pilih 1",
+        "type": "Radio Button",
+        "request": [
           {
-            "value": "None",
-            "price_change": 0
+            "value": "No Ice",
+            "price": 0
           },
           {
-            "value": "Almonds",
-            "price_change": 5000
+            "value": "Less Ice",
+            "price": 0
           },
           {
-            "value": "Chocolate Drizzle",
-            "price_change": 8000
+            "value": "Normal Ice",
+            "price": 0
           }
         ]
       },
-      "sugar_level": {
-        "label": "Sugar Level",
-        "options": [
+      {
+        "title": "Request Milk",
+        "note": "Pilih 1",
+        "type": "Radio Button",
+        "request": [
           {
-            "value": "Normal",
-            "price_change": 0
+            "value": "No Milk",
+            "price": 0
           },
           {
-            "value": "Less Sugar",
-            "price_change": 0
+            "value": "Normal Milk",
+            "price": 0
           },
           {
-            "value": "No Sugar",
-            "price_change": 0
-          }
-        ]
-      },
-      "extra": {
-        "label": "Extras",
-        "options": [
-          {
-            "value": "None",
-            "price_change": 0
-          },
-          {
-            "value": "Extra Butter",
-            "price_change": 5000
-          },
-          {
-            "value": "Jam",
-            "price_change": 3000
+            "value": "Extra Milk",
+            "price": 10000
           }
         ]
       }
-    }
+    ]
   }
 }
