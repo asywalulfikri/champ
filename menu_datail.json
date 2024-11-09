@@ -1,0 +1,78 @@
+{
+  "message": "Success Retrieve Data",
+  "code": 200,
+  "status": "Success",
+  "data": {
+    "id": 1,
+    "name": "The Monsieur Spoon Croissant",
+    "url_image": "https://www.monsieurspoon.com/wp-content/uploads/2021/07/Marzipan-Almond2.jpeg",
+    "Price": 100000,
+    "description": "Authentic French buttery, flaky croissant",
+    "customization": {
+      "size": {
+        "label": "Size",
+        "options": [
+          {
+            "value": "Regular",
+            "price_change": 0
+          },
+          {
+            "value": "Large",
+            "price_change": 20000
+          }
+        ]
+      },
+      "topping": {
+        "label": "Toppings",
+        "options": [
+          {
+            "value": "None",
+            "price_change": 0
+          },
+          {
+            "value": "Almonds",
+            "price_change": 5000
+          },
+          {
+            "value": "Chocolate Drizzle",
+            "price_change": 8000
+          }
+        ]
+      },
+      "sugar_level": {
+        "label": "Sugar Level",
+        "options": [
+          {
+            "value": "Normal",
+            "price_change": 0
+          },
+          {
+            "value": "Less Sugar",
+            "price_change": 0
+          },
+          {
+            "value": "No Sugar",
+            "price_change": 0
+          }
+        ]
+      },
+      "extra": {
+        "label": "Extras",
+        "options": [
+          {
+            "value": "None",
+            "price_change": 0
+          },
+          {
+            "value": "Extra Butter",
+            "price_change": 5000
+          },
+          {
+            "value": "Jam",
+            "price_change": 3000
+          }
+        ]
+      }
+    }
+  }
+}
