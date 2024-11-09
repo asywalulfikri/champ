@@ -1,0 +1,27 @@
+{
+  "message": "Success Retrieve Data",
+  "code": 200,
+  "status": "Success",
+  "data": [
+    {
+      "id": 1,
+      "outlet_name": "Monsieur Spoon",
+      "location": "Kota Casablanka",
+      "latitude": -6.2242362,
+      "longitude": 106.8393997,
+      "url_image": "https://galaxymall.co.id/wp-content/uploads/2024/01/MONSIEUR_SPOON_LOGO.jpg",
+      "distance": "4.5 Km",
+      "duration": "25-30 Menit"
+    },
+    {
+      "id": 2,
+      "outlet_name": "Croco",
+      "location": "Kota Casablanka",
+      "latitude": -6.2246063,
+      "longitude": 106.7277575,
+      "url_image": "https://plaza-ambarrukmo.co.id/wp-content/uploads/2024/05/GF-Croco.png",
+      "distance": "4.5 Km",
+      "duration": "20-35 Menit"
+    }
+  ]
+}
