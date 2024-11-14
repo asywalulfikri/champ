@@ -21,7 +21,7 @@
       "id": 3,
       "name": "Cheese Croissant",
       "url_image": "https://frenchbakery.cafe/wp-content/uploads/2020/08/Cheese-Croissant-2-1.jpg",
-      "Price": 250000,
+      "price": 250000,
       "description": "Traditional french croissant with melte..."
     }
   ]
