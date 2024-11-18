@@ -1,0 +1,25 @@
+{
+  "message": "Success Retrieve Data",
+  "code": 200,
+  "status": "Success",
+  "data": [
+    {
+      "id": 1,
+      "name": "promo 1",
+      "url_image": "https://www.champ-group.com/wp-content/uploads/2024/04/2560-x-1067-Banner-Web-CR-01-1536x640.jpg",
+      "description": "4.5 Km"
+    },
+    {
+      "id": 2,
+      "name": "promo 1",
+      "url_image": "https://ecs7.tokopedia.net/img/banner/2020/4/19/85531617/85531617_7da28e4c-a14f-4c10-8fec-845578f7d748.jpg",
+      "description": "4.5 Km"
+    },
+    {
+      "id": 3,
+      "name": "promo 1",
+      "url_image": "https://static.vecteezy.com/system/resources/previews/036/497/912/non_2x/ai-generated-stir-fried-noodles-with-vibrant-vegetables-on-a-white-plate-on-transparent-background-free-png.png",
+      "description": "4.5 Km"
+    }
+  ]
+}
