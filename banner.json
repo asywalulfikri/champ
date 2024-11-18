@@ -20,6 +20,12 @@
       "name": "promo 1",
       "url_image": "https://storage.cpfood.co.id/uploads/public/601/27a/0e4/thumb_879_1200_630_0_0_auto.jpg",
       "description": "4.5 Km"
+    },
+    {
+      "id": 4,
+      "name": "promo 4",
+      "url_image": "https://storage.cpfood.co.id/uploads/public/601/278/be6/thumb_872_800_800_0_0_auto.jpg",
+      "description": "4.5 Km"
     }
   ]
 }
