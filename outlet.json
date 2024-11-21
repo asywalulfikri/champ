@@ -22,6 +22,26 @@
       "url_image": "https://plaza-ambarrukmo.co.id/wp-content/uploads/2024/05/GF-Croco.png",
       "distance": "4.5 Km",
       "duration": "20-35 Menit"
+    },
+     {
+      "id": 3,
+      "outlet_name": "Gokana",
+      "location": "Kota Casablanka",
+      "latitude": -6.2246063,
+      "longitude": 106.7277575,
+      "url_image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/9fbe483b-49c3-4a9a-be66-6c6a3e15c5ce_brand-logo_1674025677471.jpg",
+      "distance": "2.5 Km",
+      "duration": "20-35 Menit"
+    },
+{
+      "id": 4,
+      "outlet_name": "Grill Man",
+      "location": "Kota Casablanka",
+      "latitude": -6.2246063,
+      "longitude": 106.7277575,
+      "url_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp9J8rq2kl6RK-hRSzgDI38dOitI6pJm2868lIdZZEAVAyHeca-Uggsro3ViNufx6CpWOk2FFCxcLwgeJf4hALAl6DTVDk2vPztc90IStBA21DFlNUTdhffBQYJNuJ_RHLu-F9azbiGEF77QsLuX8YRQfFrKPItm2EU5PCCQFiHGnYaU1JSV8ow1AXC5I/s320/grillman.png",
+      "distance": "3.5 Km",
+      "duration": "20-35 Menit"
     }
   ]
 }
