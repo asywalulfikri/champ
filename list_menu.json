@@ -1,0 +1,47 @@
+{
+  "message": "Success Retrieve Data",
+  "code": 200,
+  "status": "Success",
+  "data": [
+    {
+      "id": "1",
+      "menuType": "Paling Laris",
+      "menu": [
+        {
+          "id": "f4b3d2f6-c969-430b-a5a5-91b5142ab666",
+          "name": "Must Try Chocolate",
+          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+          "price": 300000,
+          "description": "an original French pastry made with cr..."
+        },
+        {
+          "id": "8e526382-3cbb-4348-8751-cad7b7aeb0b4",
+          "name": "Must Try Chocolate",
+          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+          "price": 300000,
+          "description": "an original French pastry made with cr..."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "menuType": "Menu Sambal",
+      "menu": [
+        {
+          "id": "1204d2c6-a175-4b2e-84fe-d790596212eb",
+          "name": "Sambal Udang",
+          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+          "price": 300000,
+          "description": "an original French pastry made with cr..."
+        },
+        {
+          "id": "b7a8581f-5b89-443b-abae-676fd1684187",
+          "name": "Sambal Terasi",
+          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+          "price": 300000,
+          "description": "an original French pastry made with cr..."
+        }
+      ]
+    }
+  ]
+}
