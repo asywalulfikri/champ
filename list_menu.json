@@ -12,14 +12,51 @@
           "name": "Must Try Chocolate",
           "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
           "price": 300000,
-          "description": "an original French pastry made with cr..."
+          "description": "an original French pastry made with cr...",
+          "customization": [
+            {
+              "title": "Add On Sugar",
+              "note": "Tidak Wajib, maks 1",
+              "type": "checkbox",
+              "request": [
+                {
+                  "value": "stevia",
+                  "price": 5000
+                },
+                {
+                  "value": "Tropica Slim",
+                  "price": 7000
+                }
+              ]
+            },
+            {
+              "title": "Request Milk",
+              "note": "Pilih 1",
+              "type": "Radio Button",
+              "request": [
+                {
+                  "value": "No Milk",
+                  "price": 0
+                },
+                {
+                  "value": "Normal Milk",
+                  "price": 0
+                },
+                {
+                  "value": "Extra Milk",
+                  "price": 10000
+                }
+              ]
+            }
+          ]
         },
         {
           "id": "8e526382-3cbb-4348-8751-cad7b7aeb0b4",
           "name": "Must Try Chocolate",
           "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
           "price": 300000,
-          "description": "an original French pastry made with cr..."
+          "description": "an original French pastry made with cr...",
+          "customization": []
         }
       ]
     },
@@ -32,14 +69,16 @@
           "name": "Sambal Udang",
           "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
           "price": 300000,
-          "description": "an original French pastry made with cr..."
+          "description": "an original French pastry made with cr...",
+          "customization": []
         },
         {
           "id": "b7a8581f-5b89-443b-abae-676fd1684187",
           "name": "Sambal Terasi",
           "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
           "price": 300000,
-          "description": "an original French pastry made with cr..."
+          "description": "an original French pastry made with cr...",
+          "customization": []
         }
       ]
     }
