@@ -1,0 +1,62 @@
+{
+  "message": "Success Retrieve Data",
+  "code": 200,
+  "status": "Success",
+  "data": [
+    {	
+      "orderId": "ORD12345",
+      "urlImage": "https://galaxymall.co.id/wp-content/uploads/2024/01/MONSIEUR_SPOON_LOGO.jpg",
+      "outletName": "Monsieur Spoon",
+      "status": "Completed",
+      "quantity": 2,
+      "description": "Chocolate cake with extra frosting",
+      "datetime": "2024-11-24T10:30:00",
+      "price": 50000,
+      "orderType": "Dine In"
+    },
+    {
+      "orderId": "ORD67890",
+      "urlImage": "https://galaxymall.co.id/wp-content/uploads/2024/01/MONSIEUR_SPOON_LOGO.jpg",
+      "outletName": "Monsieur Spoon",
+      "status": "Pending",
+      "quantity": 1,
+      "description": "Vanilla latte with almond milk",
+      "datetime": "2024-11-23T15:45:00",
+      "price": 30000,
+      "orderType": "Take Away"
+    },
+    {
+      "orderId": "ORD54321",
+      "urlImage": "https://galaxymall.co.id/wp-content/uploads/2024/01/MONSIEUR_SPOON_LOGO.jpg",
+      "outletName": "Monsieur Spoon",
+      "status": "Cancelled",
+      "quantity": 3,
+      "description": "Spaghetti carbonara",
+      "datetime": "2024-11-22T12:15:00",
+      "price": 75000,
+      "orderType": "Delivery"
+    },
+    {
+      "orderId": "ORD98765",
+      "urlImage": "https://galaxymall.co.id/wp-content/uploads/2024/01/MONSIEUR_SPOON_LOGO.jpg",
+      "outletName": "Monsieur Spoon",
+      "status": "Completed",
+      "quantity": 4,
+      "description": "Grilled chicken sandwich",
+      "datetime": "2024-11-21T18:20:00",
+      "price": 100000,
+      "orderType": "Dine In"
+    },
+    {
+      "orderId": "ORD13579",
+      "urlImage": "https://galaxymall.co.id/wp-content/uploads/2024/01/MONSIEUR_SPOON_LOGO.jpg",
+      "outletName": "Monsieur Spoon",
+      "status": "Processing",
+      "quantity": 1,
+      "description": "Green salad with avocado dressing",
+      "datetime": "2024-11-20T09:00:00",
+      "price": 40000,
+      "orderType": "Take Away"
+    }
+  ]
+}
