@@ -1,7 +1,8 @@
 {
-  "message": "Success Retrieve Data",
-  "code": 200,
-  "status": "Success",
+  "meta": {
+    "responseCode": "200",
+    "responseMessage": "Success"
+  },
   "data": [
     {
       "id": "1",
