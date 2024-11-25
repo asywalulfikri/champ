@@ -6,26 +6,26 @@
     {
       "id": "1",
       "name": "promo 1",
-      "url_image": "https://www.champ-group.com/wp-content/uploads/2024/04/2560-x-1067-Banner-Web-CR-01-1536x640.jpg",
-      "description": "4.5 Km"
+      "urlImage": "https://www.champ-group.com/wp-content/uploads/2024/04/2560-x-1067-Banner-Web-CR-01-1536x640.jpg",
+      "description": ""
     },
     {
       "id": "2",
       "name": "promo 1",
-      "url_image": "https://www.champ-group.com/wp-content/uploads/2024/04/2560-x-1067-Banner-Web-CR-01-1536x640.jpg",
-      "description": "4.5 Km"
+      "urlImage": "https://www.champ-group.com/wp-content/uploads/2024/04/2560-x-1067-Banner-Web-CR-01-1536x640.jpg",
+      "description": ""
     },
     {
      "id": "3",
       "name": "promo 1",
-      "url_image": "https://www.champ-group.com/wp-content/uploads/2024/04/2560-x-1067-Banner-Web-CR-01-1536x640.jpg",
-      "description": "4.5 Km"
+      "urlImage": "https://www.champ-group.com/wp-content/uploads/2024/04/2560-x-1067-Banner-Web-CR-01-1536x640.jpg",
+      "description": ""
     },
     {
       "id": "4",
       "name": "promo 4",
-      "url_image": "https://www.champ-group.com/wp-content/uploads/2024/04/2560-x-1067-Banner-Web-CR-01-1536x640.jpg",
-      "description": "4.5 Km"
+      "urlImage": "https://www.champ-group.com/wp-content/uploads/2024/04/2560-x-1067-Banner-Web-CR-01-1536x640.jpg",
+      "description": ""
     }
   ]
 }
