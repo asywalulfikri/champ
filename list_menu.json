@@ -62,7 +62,7 @@
         {
           "id": "6a3f3d9c-9829-44de-87ed-ecfb67abf849",
           "name": "Chocolate Cake",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+          "urlImage": "https://sugargeekshow.com/wp-content/uploads/2023/10/easy_chocolate_cake_slice.jpg",
           "price": 250000,
           "description": "Delicious chocolate cake with vanilla cream.",
           "customization": []
@@ -78,7 +78,7 @@
         {
           "id": "9d89abfa-50f0-4be5-8e1f-d8465b836b24",
           "name": "Macaron",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+          "urlImage": "https://img.lazcdn.com/g/p/mdc/3a0f5bcd1402d2caaefa0fb4af67049d.jpg_720x720q80.jpg",
           "price": 200000,
           "description": "Colorful French macarons with various fillings.",
           "customization": []
@@ -88,7 +88,7 @@
     {
       "id": "2",
       "menuType": "Menu Sambal",
-      "menu": [
+      "result": [
         {
           "id": "1204d2c6-a175-4b2e-84fe-d790596212eb",
           "name": "Sambal Udang",
@@ -134,7 +134,7 @@
     {
       "id": "3",
       "menuType": "Menu Makanan Berat",
-      "menu": [
+      "result": [
         {
           "id": "a5be7038-f35b-4880-bcc7-3c1b2ca1ff47",
           "name": "Nasi Goreng",
@@ -180,7 +180,7 @@
     {
       "id": "4",
       "menuType": "Menu Minuman",
-      "menu": [
+      "result": [
         {
           "id": "b2586d7e-c019-4a62-83a1-80f6c090f75c",
           "name": "Es Teh Manis",
@@ -226,7 +226,7 @@
     {
       "id": "5",
       "menuType": "Menu Vegetarian",
-      "menu": [
+      "result": [
         {
           "id": "bb2f3f77-b1a6-4ac4-b35b-e0f4c0f7f1b1",
           "name": "Salad",
@@ -272,7 +272,7 @@
     {
       "id": "6",
       "menuType": "Dessert",
-      "menu": [
+      "result": [
         {
           "id": "cfa0b10e-e6e7-462d-b727-7b3c61e1dbbe",
           "name": "Ice Cream",
@@ -292,7 +292,7 @@
         {
           "id": "b45c6d6b-e3fe-4d69-b7b5-5e46c63f3ed9",
           "name": "Fruit Tart",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+          "urlImage": "https://www.marcellinaincucina.com/wp-content/uploads/2017/09/mini-fruit-tarts-featured.jpg",
           "price": 60000,
           "description": "A fresh fruit tart with a crispy crust.",
           "customization": []
@@ -300,7 +300,7 @@
         {
           "id": "caebdb76-cb25-4c21-857e-38c8281a2378",
           "name": "Cheesecake",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+          "urlImage": "https://www.splenda.com/wp-content/uploads/2020/05/american-classic-cheesecake-thumb.jpg",
           "price": 80000,
           "description": "Rich and creamy cheesecake.",
           "customization": []
@@ -308,7 +308,7 @@
         {
           "id": "8a9cb767-d7c4-4723-93b5-d1fef913fbc3",
           "name": "Panna Cotta",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+          "urlImage": "https://kurio-img.kurioapps.com/20/10/07/583a7200-2b29-4586-91ab-e7999dc9f4a2.jpeg",
           "price": 70000,
           "description": "Delicate Italian panna cotta.",
           "customization": []
