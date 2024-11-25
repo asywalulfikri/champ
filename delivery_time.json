@@ -6,15 +6,15 @@
   "data": [
     {
       "time": "9.30 AM - 10.00 AM",
-      "shipping_cost": "200000"
+      "shippingCost": "200000"
     },
     {
       "time": "10.30 AM - 11.00 AM",
-      "shipping_cost": "300000"
+      "shippingCost": "300000"
     },
     {
       "time": "11.30 AM - 12.00 PM",
-      "shipping_cost": "300000"
+      "shippingCost": "300000"
     },
     {
       "time": "12.30 PM - 01.00 PM",
