@@ -4,9 +4,9 @@
     "responseMessage": "Success"
   },
   "data": {
-    "id": 1,
+    "id": "1",
     "name": "The Monsieur Spoon Croissant",
-    "url_image": "https://www.monsieurspoon.com/wp-content/uploads/2021/07/Marzipan-Almond2.jpeg",
+    "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2021/07/Marzipan-Almond2.jpeg",
     "price": 100000,
     "description": "Authentic French buttery, flaky croissant",
     "customization": [
