@@ -1,15 +1,16 @@
 {
-  "message": "Success Retrieve Data",
-  "code": 200,
-  "status": "Success",
+  "meta": {
+    "responseCode": "00",
+    "responseMessage": "Success"
+  },
   "data": [
     {
-      "id": 1,
+      "id": "1",
       "outletName": "Monsieur Spoon",
       "location": "Kota Casablanka",
       "latitude": -6.2242362,
       "longitude": 106.8393997,
-      "description":"Toko Kue",
+      "description": "Toko Kue",
       "address": "Kota Kasablanka, Menteng Dalam, Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12960",
       "banner": "https://i.ytimg.com/vi/Ue31-2wop4U/maxresdefault.jpg",
       "urlImage": "https://galaxymall.co.id/wp-content/uploads/2024/01/MONSIEUR_SPOON_LOGO.jpg",
@@ -17,12 +18,12 @@
       "duration": "25-30 Menit"
     },
     {
-      "id": 2,
+      "id": "2",
       "outletName": "Croco",
       "location": "Kota Casablanka",
       "latitude": -6.2246063,
       "longitude": 106.7277575,
-      "description":"Sarapan Enak",
+      "description": "Sarapan Enak",
       "address": "Kota Kasablanka Lantai GF No. 23a, Jalan Casablanca No.88, Jl. Raya Casablanca No.88 23a, RT.14/RW.5, Menteng Dalam, Kec. Tebet, Kota Jakarta Selatan",
       "banner": "https://i.ytimg.com/vi/Ue31-2wop4U/maxresdefault.jpg",
       "urlImage": "https://plaza-ambarrukmo.co.id/wp-content/uploads/2024/05/GF-Croco.png",
@@ -30,12 +31,12 @@
       "duration": "20-35 Menit"
     },
     {
-      "id": 3,
+      "id": "3",
       "outletName": "Gokana",
       "location": "Kota Casablanka",
       "latitude": -6.2246063,
       "longitude": 106.7277575,
-      "description":"Jepang , Mie",
+      "description": "Jepang , Mie",
       "address": "Jl. Nasional 1 No.RT 008, RT.008/RW.004, Jatibening Baru, Kec. Pd. Gede, Kota Bks, Jawa Barat",
       "banner": "https://i.ytimg.com/vi/Ue31-2wop4U/maxresdefault.jpg",
       "urlImage": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/9fbe483b-49c3-4a9a-be66-6c6a3e15c5ce_brand-logo_1674025677471.jpg",
@@ -43,12 +44,12 @@
       "duration": "20-35 Menit"
     },
     {
-      "id": 4,
+      "id": "4",
       "outletName": "Grill Man",
       "location": "Kota Casablanka",
       "latitude": -6.2246063,
       "longitude": 106.7277575,
-      "description":"Bakar Bakaran",
+      "description": "Bakar Bakaran",
       "address": "Kota Kasablanka Lantai GF No. 23a, Jalan Casablanca No.88, Jl. Raya Casablanca No.88 23a, RT.14/RW.5, Menteng Dalam, Kec. Tebet, Kota Jakarta Selatan",
       "banner": "https://i.ytimg.com/vi/Ue31-2wop4U/maxresdefault.jpg",
       "urlImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp9J8rq2kl6RK-hRSzgDI38dOitI6pJm2868lIdZZEAVAyHeca-Uggsro3ViNufx6CpWOk2FFCxcLwgeJf4hALAl6DTVDk2vPztc90IStBA21DFlNUTdhffBQYJNuJ_RHLu-F9azbiGEF77QsLuX8YRQfFrKPItm2EU5PCCQFiHGnYaU1JSV8ow1AXC5I/s320/grillman.png",
@@ -56,12 +57,12 @@
       "duration": "20-35 Menit"
     },
     {
-      "id": 5,
+      "id": "5",
       "outletName": "Platinum",
       "location": "Kuningan",
       "latitude": -6.2246063,
       "longitude": 106.7277575,
-      "description":"Premium Food",
+      "description": "Premium Food",
       "address": "Kota Kasablanka Lantai GF No. 23a, Jalan Casablanca No.88, Jl. Raya Casablanca No.88 23a, RT.14/RW.5, Menteng Dalam, Kec. Tebet, Kota Jakarta Selatan",
       "banner": "https://i.ytimg.com/vi/Ue31-2wop4U/maxresdefault.jpg",
       "urlImage": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/2cacb853-e0d1-432c-9698-2656079be58b_brand-logo_1729155938717.jpg",
