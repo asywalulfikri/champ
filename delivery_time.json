@@ -1,7 +1,8 @@
 {
-  "message": "Success Retrieve Data",
-  "code": 200,
-  "status": "Success",
+   "meta": {
+    "responseCode": "200",
+    "responseMessage": "Success"
+  },
   "data": [
     {
       "time": "9.30 AM - 10.00 AM",
