@@ -12,8 +12,9 @@
     "customization": [
       {
         "title": "Add On Sugar",
-        "note": "Tidak Wajib, maks 1",
+        "note": "Optional",
         "type": "checkbox",
+        "required": false,
         "request": [
           {
             "value": "stevia",
@@ -29,6 +30,7 @@
         "title": "Request Ice",
         "note": "Pilih 1",
         "type": "Radio Button",
+        "required": true,
         "request": [
           {
             "value": "No Ice",
@@ -48,6 +50,7 @@
         "title": "Request Milk",
         "note": "Pilih 1",
         "type": "Radio Button",
+        "required": true,
         "request": [
           {
             "value": "No Milk",
