@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "responseCode": "200",
+    "responseMessage": "Success"
+  },
+  "data": {
+    "resource": "svc-bo",
+    "type": "get detail",
+    "operation": "get detail activity",
+    "result": {
+        "orderId": "ORD-20231126-001",
+        "orderDate": "2023-11-26T14:30:45+07:00",
+        "status": "Completed",
+        "outlet": {
+          "name": "Monsieur Spoon",
+          "address": "Jl. Sunset Road No. 88, Seminyak, Bali",
+          "contact": "+62 361 123 4567",
+          "logo_url": "https://example.com/monsieur_spoon_logo.png"
+        },
+        "orderType": {
+          "type": "Delivery",
+          "address": {
+            "street": "Jl. Pantai Berawa No. 45",
+            "area": "Canggu",
+            "city": "Badung",
+            "province": "Bali",
+            "postalCode": "80361",
+            "latitude": -8.6569,
+            "longitude": 115.1402,
+            "notes": "Kompleks Villa Hijau, pintu besi hitam"
+          },
+          "contactPerson": {
+            "name": "John Doe",
+            "phone": "+62 812 3456 7890"
+          },
+          "estimatedDelivery": {
+            "time_range": "15-20 menit",
+            "distance": "3.2 km"
+          }
+        },
+        "purchasedItems": [
+          {
+            "itemId": "MENU-001",
+            "name": "Classic Croissant",
+            "quantity": 2,
+            "price": 25000,
+            "total_price": 50000,
+            "notes": "Tambah selai cokelat",
+            "category": "Pastry"
+          },
+          {
+            "itemId": "MENU-005",
+            "name": "Cafe Latte",
+            "quantity": 1,
+            "price": 35000,
+            "total_price": 35000,
+            "notes": "Suhu hangat, tambah gula",
+            "category": "Minuman"
+          }
+        ],
+        "payment_summary": {
+          "subtotal": 85000,
+          "deliveryFee": 15000,
+          "platformFee": 2500,
+          "discount": {
+            "type": "Promo",
+            "code": "FIRSTORDER",
+            "amount": 10000
+          },
+          "tax": 8500,
+          "totalPayment": 91000,
+          "paymentMethod": {
+            "type": "Digital Wallet",
+            "name": "GoPay",
+            "lastFourDigits": "8765"
+          }
+        },
+        "orderTracking": {
+          "currentStatus": "Delivered",
+          "status_history": [
+            {
+              "status": "Placed",
+              "timestamp": "2023-11-26T14:30:45+07:00"
+            },
+            {
+              "status": "Preparing",
+              "timestamp": "2023-11-26T14:35:00+07:00"
+            },
+            {
+              "status": "On Delivery",
+              "timestamp": "2023-11-26T14:45:00+07:00"
+            },
+            {
+              "status": "Delivered",
+              "timestamp": "2023-11-26T14:55:00+07:00"
+            }
+          ]
+        },
+        "reviewDetails": {
+          "isReviewed": false,
+          "reviewDeadline": "2023-12-03T14:30:45+07:00"
+        }
+      }
+  }
+}
