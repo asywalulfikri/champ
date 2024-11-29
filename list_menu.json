@@ -3,317 +3,322 @@
     "responseCode": "200",
     "responseMessage": "Success"
   },
-  "data": [
-    {
-      "categoryId": "1",
-      "menuType": "Paling Laris",
-      "result": [
-        {
-          "menuId": "f4b3d2f6-c969-430b-a5a5-91b5142ab666",
-          "name": "Must Try Chocolate",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 300000,
-          "description": "An original French pastry made with chocolate.",
-          "customization": [
-            {
-              "title": "Add On Sugar",
-              "note": "Tidak Wajib, maks 1",
-              "type": "checkbox",
-              "request": [
-                {
-                  "value": "stevia",
-                  "price": 5000
-                },
-                {
-                  "value": "Tropica Slim",
-                  "price": 7000
-                }
-              ]
-            },
-            {
-              "title": "Request Milk",
-              "note": "Pilih 1",
-              "type": "Radio Button",
-              "request": [
-                {
-                  "value": "No Milk",
-                  "price": 0
-                },
-                {
-                  "value": "Normal Milk",
-                  "price": 0
-                },
-                {
-                  "value": "Extra Milk",
-                  "price": 10000
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "menuId": "8e526382-3cbb-4348-8751-cad7b7aeb0b4",
-          "name": "Kue Coklat",
-          "urlImage": "https://www.frisianflag.com/storage/app/media/uploaded-files/kue-coklat-boba.jpg",
-          "price": 150000,
-          "description": "An original French pastry made with chocolate.",
-          "customization": []
-        },
-        {
-          "menuId": "6a3f3d9c-9829-44de-87ed-ecfb67abf849",
-          "name": "Chocolate Cake",
-          "urlImage": "https://sugargeekshow.com/wp-content/uploads/2023/10/easy_chocolate_cake_slice.jpg",
-          "price": 250000,
-          "description": "Delicious chocolate cake with vanilla cream.",
-          "customization": []
-        },
-        {
-          "menuId": "b9229fcd-5936-4442-8b2b-774b2cf58ef8",
-          "name": "Eclair",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 150000,
-          "description": "A traditional French eclair filled with cream.",
-          "customization": []
-        },
-        {
-          "menuId": "9d89abfa-50f0-4be5-8e1f-d8465b836b24",
-          "name": "Macaron",
-          "urlImage": "https://img.lazcdn.com/g/p/mdc/3a0f5bcd1402d2caaefa0fb4af67049d.jpg_720x720q80.jpg",
-          "price": 200000,
-          "description": "Colorful French macarons with various fillings.",
-          "customization": []
-        }
-      ]
-    },
-    {
-      "categoryId": "2",
-      "menuType": "Menu Sambal",
-      "result": [
-        {
-          "menuId": "1204d2c6-a175-4b2e-84fe-d790596212eb",
-          "name": "Sambal Udang",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 300000,
-          "description": "Sambal made with shrimp for a spicy taste.",
-          "customization": []
-        },
-        {
-          "menuId": "b7a8581f-5b89-443b-abae-676fd1684187",
-          "name": "Sambal Terasi",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 250000,
-          "description": "Traditional sambal with terasi (fermented shrimp paste).",
-          "customization": []
-        },
-        {
-          "menuId": "f3c59f9b-9e59-4ec4-a849-1b5a4e970cc1",
-          "name": "Sambal Matah",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 180000,
-          "description": "Balinese sambal with raw shallots, lemongrass, and chili.",
-          "customization": []
-        },
-        {
-          "menuId": "11d5f938-eed3-4968-9113-df423f72ea5b",
-          "name": "Sambal Ijo",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 200000,
-          "description": "Green sambal made from green chili.",
-          "customization": []
-        },
-        {
-          "menuId": "9f80d334-6ca2-4847-b89d-bd4e977e7b65",
-          "name": "Sambal Bawang",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 220000,
-          "description": "Sambal with garlic and chili for a savory kick.",
-          "customization": []
-        }
-      ]
-    },
-    {
-      "categoryId": "3",
-      "menuType": "Menu Makanan Berat",
-      "result": [
-        {
-          "menuId": "a5be7038-f35b-4880-bcc7-3c1b2ca1ff47",
-          "name": "Nasi Goreng",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 350000,
-          "description": "Indonesian fried rice with various toppings.",
-          "customization": []
-        },
-        {
-          "menuId": "d2b6a593-6c3f-423d-a533-6d8ea70e1056",
-          "name": "Sate Ayam",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 250000,
-          "description": "Grilled chicken satay with peanut sauce.",
-          "customization": []
-        },
-        {
-          "menuId": "c31efed6-972b-488e-b484-34f6e7a458bc",
-          "name": "Ayam Penyet",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 300000,
-          "description": "Crushed fried chicken with sambal and rice.",
-          "customization": []
-        },
-        {
-          "menuId": "b0a08f34-e8e6-4f7b-87a7-91f545634ec3",
-          "name": "Mie Goreng",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 220000,
-          "description": "Stir-fried noodles with vegetables and chicken.",
-          "customization": []
-        },
-        {
-          "menuId": "ba531ba1-b6ae-4e9a-9f67-6a6f45a7747b",
-          "name": "Bubur Ayam",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 180000,
-          "description": "Indonesian chicken porridge served with sambal and crackers.",
-          "customization": []
-        }
-      ]
-    },
-    {
-      "categoryId": "4",
-      "menuType": "Menu Minuman",
-      "result": [
-        {
-          "menuId": "b2586d7e-c019-4a62-83a1-80f6c090f75c",
-          "name": "Es Teh Manis",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 10000,
-          "description": "Sweet iced tea.",
-          "customization": []
-        },
-        {
-          "menuId": "c9e2465a-79b3-4d47-97c8-50e2e132df76",
-          "name": "Jus Jeruk",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 15000,
-          "description": "Fresh orange juice.",
-          "customization": []
-        },
-        {
-          "menuId": "78b8e593-6f0e-4e6f-9e3f-8c2745726183",
-          "name": "Kopi",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 20000,
-          "description": "Freshly brewed coffee.",
-          "customization": []
-        },
-        {
-          "menuId": "4acb222d-1d92-42ef-8f70-df63129f6a4a",
-          "name": "Milkshake",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 30000,
-          "description": "Milkshake with various flavors.",
-          "customization": []
-        },
-        {
-          "menuId": "762e2e56-e52d-4647-82a7-4316185179e0",
-          "name": "Es Kelapa",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 25000,
-          "description": "Fresh coconut water with ice.",
-          "customization": []
-        }
-      ]
-    },
-    {
-      "categoryId": "5",
-      "menuType": "Menu Vegetarian",
-      "result": [
-        {
-          "menuId": "bb2f3f77-b1a6-4ac4-b35b-e0f4c0f7f1b1",
-          "name": "Salad",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 100000,
-          "description": "Fresh vegetable salad.",
-          "customization": []
-        },
-        {
-          "menuId": "99bb8b45-0d1c-432f-9b18-cff27a5b67b1",
-          "name": "Vegetarian Pizza",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 150000,
-          "description": "Vegetarian pizza with cheese and fresh vegetables.",
-          "customization": []
-        },
-        {
-          "menuId": "dfb1f755-bdc0-43d2-8392-e77f7e8c3c0d",
-          "name": "Vegetable Burger",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 120000,
-          "description": "A delicious vegetable burger with a vegan patty.",
-          "customization": []
-        },
-        {
-          "menuId": "8a6292e9-9d85-42c2-8c0d-17cbfa717b3c",
-          "name": "Tofu Stir Fry",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 130000,
-          "description": "Stir-fried tofu with fresh vegetables.",
-          "customization": []
-        },
-        {
-          "menuId": "4b8b8a89-e8c0-4249-83ec-e2f3e563b908",
-          "name": "Vegan Burrito",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 140000,
-          "description": "Vegan burrito filled with fresh ingredients.",
-          "customization": []
-        }
-      ]
-    },
-    {
-      "categoryId": "6",
-      "menuType": "Dessert",
-      "result": [
-        {
-          "menuId": "cfa0b10e-e6e7-462d-b727-7b3c61e1dbbe",
-          "name": "Ice Cream",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 50000,
-          "description": "Creamy ice cream with various flavors.",
-          "customization": []
-        },
-        {
-          "menuId": "edab8a0c-342f-4014-bb99-0f570a9e4de5",
-          "name": "Chocolate Brownie",
-          "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
-          "price": 75000,
-          "description": "Delicious chocolate brownie served with cream.",
-          "customization": []
-        },
-        {
-          "menuId": "b45c6d6b-e3fe-4d69-b7b5-5e46c63f3ed9",
-          "name": "Fruit Tart",
-          "urlImage": "https://www.marcellinaincucina.com/wp-content/uploads/2017/09/mini-fruit-tarts-featured.jpg",
-          "price": 60000,
-          "description": "A fresh fruit tart with a crispy crust.",
-          "customization": []
-        },
-        {
-          "menuId": "caebdb76-cb25-4c21-857e-38c8281a2378",
-          "name": "Cheesecake",
-          "urlImage": "https://www.splenda.com/wp-content/uploads/2020/05/american-classic-cheesecake-thumb.jpg",
-          "price": 80000,
-          "description": "Rich and creamy cheesecake.",
-          "customization": []
-        },
-        {
-          "menuId": "8a9cb767-d7c4-4723-93b5-d1fef913fbc3",
-          "name": "Panna Cotta",
-          "urlImage": "https://kurio-img.kurioapps.com/20/10/07/583a7200-2b29-4586-91ab-e7999dc9f4a2.jpeg",
-          "price": 70000,
-          "description": "Delicate Italian panna cotta.",
-          "customization": []
-        }
-      ]
-    }
-  ]
+  "data": {
+    "resource": "svc-bo",
+    "type": "list",
+    "operation": "get all menu by outlet",
+    "result": [
+      {
+        "categoryId": "1",
+        "menuType": "Paling Laris",
+        "menu": [
+          {
+            "menuId": "f4b3d2f6-c969-430b-a5a5-91b5142ab666",
+            "name": "Must Try Chocolate",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 300000,
+            "description": "An original French pastry made with chocolate.",
+            "customization": [
+              {
+                "title": "Add On Sugar",
+                "note": "Tidak Wajib, maks 1",
+                "type": "checkbox",
+                "request": [
+                  {
+                    "value": "stevia",
+                    "price": 5000
+                  },
+                  {
+                    "value": "Tropica Slim",
+                    "price": 7000
+                  }
+                ]
+              },
+              {
+                "title": "Request Milk",
+                "note": "Pilih 1",
+                "type": "Radio Button",
+                "request": [
+                  {
+                    "value": "No Milk",
+                    "price": 0
+                  },
+                  {
+                    "value": "Normal Milk",
+                    "price": 0
+                  },
+                  {
+                    "value": "Extra Milk",
+                    "price": 10000
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "menuId": "8e526382-3cbb-4348-8751-cad7b7aeb0b4",
+            "name": "Kue Coklat",
+            "urlImage": "https://www.frisianflag.com/storage/app/media/uploaded-files/kue-coklat-boba.jpg",
+            "price": 150000,
+            "description": "An original French pastry made with chocolate.",
+            "customization": []
+          },
+          {
+            "menuId": "6a3f3d9c-9829-44de-87ed-ecfb67abf849",
+            "name": "Chocolate Cake",
+            "urlImage": "https://sugargeekshow.com/wp-content/uploads/2023/10/easy_chocolate_cake_slice.jpg",
+            "price": 250000,
+            "description": "Delicious chocolate cake with vanilla cream.",
+            "customization": []
+          },
+          {
+            "menuId": "b9229fcd-5936-4442-8b2b-774b2cf58ef8",
+            "name": "Eclair",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 150000,
+            "description": "A traditional French eclair filled with cream.",
+            "customization": []
+          },
+          {
+            "menuId": "9d89abfa-50f0-4be5-8e1f-d8465b836b24",
+            "name": "Macaron",
+            "urlImage": "https://img.lazcdn.com/g/p/mdc/3a0f5bcd1402d2caaefa0fb4af67049d.jpg_720x720q80.jpg",
+            "price": 200000,
+            "description": "Colorful French macarons with various fillings.",
+            "customization": []
+          }
+        ]
+      },
+      {
+        "categoryId": "2",
+        "menuType": "Menu Sambal",
+        "menu": [
+          {
+            "menuId": "1204d2c6-a175-4b2e-84fe-d790596212eb",
+            "name": "Sambal Udang",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 300000,
+            "description": "Sambal made with shrimp for a spicy taste.",
+            "customization": []
+          },
+          {
+            "menuId": "b7a8581f-5b89-443b-abae-676fd1684187",
+            "name": "Sambal Terasi",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 250000,
+            "description": "Traditional sambal with terasi (fermented shrimp paste).",
+            "customization": []
+          },
+          {
+            "menuId": "f3c59f9b-9e59-4ec4-a849-1b5a4e970cc1",
+            "name": "Sambal Matah",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 180000,
+            "description": "Balinese sambal with raw shallots, lemongrass, and chili.",
+            "customization": []
+          },
+          {
+            "menuId": "11d5f938-eed3-4968-9113-df423f72ea5b",
+            "name": "Sambal Ijo",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 200000,
+            "description": "Green sambal made from green chili.",
+            "customization": []
+          },
+          {
+            "menuId": "9f80d334-6ca2-4847-b89d-bd4e977e7b65",
+            "name": "Sambal Bawang",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 220000,
+            "description": "Sambal with garlic and chili for a savory kick.",
+            "customization": []
+          }
+        ]
+      },
+      {
+        "categoryId": "3",
+        "menuType": "Menu Makanan Berat",
+        "menu": [
+          {
+            "menuId": "a5be7038-f35b-4880-bcc7-3c1b2ca1ff47",
+            "name": "Nasi Goreng",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 350000,
+            "description": "Indonesian fried rice with various toppings.",
+            "customization": []
+          },
+          {
+            "menuId": "d2b6a593-6c3f-423d-a533-6d8ea70e1056",
+            "name": "Sate Ayam",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 250000,
+            "description": "Grilled chicken satay with peanut sauce.",
+            "customization": []
+          },
+          {
+            "menuId": "c31efed6-972b-488e-b484-34f6e7a458bc",
+            "name": "Ayam Penyet",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 300000,
+            "description": "Crushed fried chicken with sambal and rice.",
+            "customization": []
+          },
+          {
+            "menuId": "b0a08f34-e8e6-4f7b-87a7-91f545634ec3",
+            "name": "Mie Goreng",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 220000,
+            "description": "Stir-fried noodles with vegetables and chicken.",
+            "customization": []
+          },
+          {
+            "menuId": "ba531ba1-b6ae-4e9a-9f67-6a6f45a7747b",
+            "name": "Bubur Ayam",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 180000,
+            "description": "Indonesian chicken porridge served with sambal and crackers.",
+            "customization": []
+          }
+        ]
+      },
+      {
+        "categoryId": "4",
+        "menuType": "Menu Minuman",
+        "menu": [
+          {
+            "menuId": "b2586d7e-c019-4a62-83a1-80f6c090f75c",
+            "name": "Es Teh Manis",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 10000,
+            "description": "Sweet iced tea.",
+            "customization": []
+          },
+          {
+            "menuId": "c9e2465a-79b3-4d47-97c8-50e2e132df76",
+            "name": "Jus Jeruk",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 15000,
+            "description": "Fresh orange juice.",
+            "customization": []
+          },
+          {
+            "menuId": "78b8e593-6f0e-4e6f-9e3f-8c2745726183",
+            "name": "Kopi",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 20000,
+            "description": "Freshly brewed coffee.",
+            "customization": []
+          },
+          {
+            "menuId": "4acb222d-1d92-42ef-8f70-df63129f6a4a",
+            "name": "Milkshake",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 30000,
+            "description": "Milkshake with various flavors.",
+            "customization": []
+          },
+          {
+            "menuId": "762e2e56-e52d-4647-82a7-4316185179e0",
+            "name": "Es Kelapa",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 25000,
+            "description": "Fresh coconut water with ice.",
+            "customization": []
+          }
+        ]
+      },
+      {
+        "categoryId": "5",
+        "menuType": "Menu Vegetarian",
+        "menu": [
+          {
+            "menuId": "bb2f3f77-b1a6-4ac4-b35b-e0f4c0f7f1b1",
+            "name": "Salad",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 100000,
+            "description": "Fresh vegetable salad.",
+            "customization": []
+          },
+          {
+            "menuId": "99bb8b45-0d1c-432f-9b18-cff27a5b67b1",
+            "name": "Vegetarian Pizza",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 150000,
+            "description": "Vegetarian pizza with cheese and fresh vegetables.",
+            "customization": []
+          },
+          {
+            "menuId": "dfb1f755-bdc0-43d2-8392-e77f7e8c3c0d",
+            "name": "Vegetable Burger",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 120000,
+            "description": "A delicious vegetable burger with a vegan patty.",
+            "customization": []
+          },
+          {
+            "menuId": "8a6292e9-9d85-42c2-8c0d-17cbfa717b3c",
+            "name": "Tofu Stir Fry",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 130000,
+            "description": "Stir-fried tofu with fresh vegetables.",
+            "customization": []
+          },
+          {
+            "menuId": "4b8b8a89-e8c0-4249-83ec-e2f3e563b908",
+            "name": "Vegan Burrito",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 140000,
+            "description": "Vegan burrito filled with fresh ingredients.",
+            "customization": []
+          }
+        ]
+      },
+      {
+        "categoryId": "6",
+        "menuType": "Dessert",
+        "menu": [
+          {
+            "menuId": "cfa0b10e-e6e7-462d-b727-7b3c61e1dbbe",
+            "name": "Ice Cream",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 50000,
+            "description": "Creamy ice cream with various flavors.",
+            "customization": []
+          },
+          {
+            "menuId": "edab8a0c-342f-4014-bb99-0f570a9e4de5",
+            "name": "Chocolate Brownie",
+            "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
+            "price": 75000,
+            "description": "Delicious chocolate brownie served with cream.",
+            "customization": []
+          },
+          {
+            "menuId": "b45c6d6b-e3fe-4d69-b7b5-5e46c63f3ed9",
+            "name": "Fruit Tart",
+            "urlImage": "https://www.marcellinaincucina.com/wp-content/uploads/2017/09/mini-fruit-tarts-featured.jpg",
+            "price": 60000,
+            "description": "A fresh fruit tart with a crispy crust.",
+            "customization": []
+          },
+          {
+            "menuId": "caebdb76-cb25-4c21-857e-38c8281a2378",
+            "name": "Cheesecake",
+            "urlImage": "https://www.splenda.com/wp-content/uploads/2020/05/american-classic-cheesecake-thumb.jpg",
+            "price": 80000,
+            "description": "Rich and creamy cheesecake.",
+            "customization": []
+          },
+          {
+            "menuId": "8a9cb767-d7c4-4723-93b5-d1fef913fbc3",
+            "name": "Panna Cotta",
+            "urlImage": "https://kurio-img.kurioapps.com/20/10/07/583a7200-2b29-4586-91ab-e7999dc9f4a2.jpeg",
+            "price": 70000,
+            "description": "Delicate Italian panna cotta.",
+            "customization": []
+          }
+        ]
+      }
+    ]
+  }
 }
