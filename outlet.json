@@ -9,7 +9,7 @@
     "operation": "get all outlet",
     "result": [
       {
-        "id": "1",
+        "outletId": "1",
         "outletName": "Monsieur Spoon",
         "location": "Kota Casablanka",
         "latitude": -6.2242362,
@@ -22,7 +22,7 @@
         "duration": "25-30 Menit"
       },
       {
-        "id": "2",
+        "outletId": "2",
         "outletName": "Croco",
         "location": "Kota Casablanka",
         "latitude": -6.2246063,
@@ -35,7 +35,7 @@
         "duration": "20-35 Menit"
       },
       {
-        "id": "3",
+        "outletId": "3",
         "outletName": "Gokana",
         "location": "Kota Casablanka",
         "latitude": -6.2246063,
@@ -48,7 +48,7 @@
         "duration": "20-35 Menit"
       },
       {
-        "id": "4",
+        "outletId": "4",
         "outletName": "Grill Man",
         "location": "Kota Casablanka",
         "latitude": -6.2246063,
@@ -61,7 +61,7 @@
         "duration": "20-35 Menit"
       },
       {
-        "id": "5",
+        "outletId": "5",
         "outletName": "Platinum",
         "location": "Kuningan",
         "latitude": -6.2246063,
