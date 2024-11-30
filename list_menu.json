@@ -25,10 +25,12 @@
                 "type": "checkbox",
                 "request": [
                   {
+                    "customId":"802vshvoihq3uj",
                     "value": "stevia",
                     "price": 5000
                   },
                   {
+                     "customId":"802vshvoihfewfwegfwe",
                     "value": "Tropica Slim",
                     "price": 7000
                   }
@@ -40,14 +42,17 @@
                 "type": "Radio Button",
                 "request": [
                   {
+                    "customId":"wt89yu9w8g98802vshvoihq3uj",
                     "value": "No Milk",
                     "price": 0
                   },
                   {
+                    "customId":"xcvkmewgojbdnkn802vshvoihq3uj",
                     "value": "Normal Milk",
                     "price": 0
                   },
                   {
+                    "customId":"80f9w8t09vajnqfojeoj2vshvoihq3uj",
                     "value": "Extra Milk",
                     "price": 10000
                   }
