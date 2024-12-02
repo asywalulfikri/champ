@@ -18,6 +18,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 300000,
             "description": "An original French pastry made with chocolate.",
+            "inStock": true,
             "customization": [
               {
                 "title": "Add On Sugar",
@@ -66,6 +67,7 @@
             "urlImage": "https://www.frisianflag.com/storage/app/media/uploaded-files/kue-coklat-boba.jpg",
             "price": 150000,
             "description": "An original French pastry made with chocolate.",
+            "inStock": false,
             "customization": []
           },
           {
@@ -74,6 +76,7 @@
             "urlImage": "https://sugargeekshow.com/wp-content/uploads/2023/10/easy_chocolate_cake_slice.jpg",
             "price": 250000,
             "description": "Delicious chocolate cake with vanilla cream.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -82,6 +85,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 150000,
             "description": "A traditional French eclair filled with cream.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -90,6 +94,7 @@
             "urlImage": "https://img.lazcdn.com/g/p/mdc/3a0f5bcd1402d2caaefa0fb4af67049d.jpg_720x720q80.jpg",
             "price": 200000,
             "description": "Colorful French macarons with various fillings.",
+            "inStock": true,
             "customization": []
           }
         ]
@@ -104,6 +109,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 300000,
             "description": "Sambal made with shrimp for a spicy taste.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -112,6 +118,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 250000,
             "description": "Traditional sambal with terasi (fermented shrimp paste).",
+            "inStock": false,
             "customization": []
           },
           {
@@ -120,6 +127,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 180000,
             "description": "Balinese sambal with raw shallots, lemongrass, and chili.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -128,6 +136,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 200000,
             "description": "Green sambal made from green chili.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -136,6 +145,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 220000,
             "description": "Sambal with garlic and chili for a savory kick.",
+            "inStock": true,
             "customization": []
           }
         ]
@@ -150,6 +160,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 350000,
             "description": "Indonesian fried rice with various toppings.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -158,6 +169,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 250000,
             "description": "Grilled chicken satay with peanut sauce.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -166,6 +178,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 300000,
             "description": "Crushed fried chicken with sambal and rice.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -174,6 +187,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 220000,
             "description": "Stir-fried noodles with vegetables and chicken.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -182,6 +196,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 180000,
             "description": "Indonesian chicken porridge served with sambal and crackers.",
+            "inStock": true,
             "customization": []
           }
         ]
@@ -196,6 +211,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 10000,
             "description": "Sweet iced tea.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -204,6 +220,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 15000,
             "description": "Fresh orange juice.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -212,6 +229,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 20000,
             "description": "Freshly brewed coffee.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -220,6 +238,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 30000,
             "description": "Milkshake with various flavors.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -228,6 +247,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 25000,
             "description": "Fresh coconut water with ice.",
+            "inStock": true,
             "customization": []
           }
         ]
@@ -242,6 +262,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 100000,
             "description": "Fresh vegetable salad.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -250,6 +271,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 150000,
             "description": "Vegetarian pizza with cheese and fresh vegetables.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -258,6 +280,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 120000,
             "description": "A delicious vegetable burger with a vegan patty.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -266,6 +289,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 130000,
             "description": "Stir-fried tofu with fresh vegetables.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -274,6 +298,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 140000,
             "description": "Vegan burrito filled with fresh ingredients.",
+            "inStock": true,
             "customization": []
           }
         ]
@@ -288,6 +313,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 50000,
             "description": "Creamy ice cream with various flavors.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -296,6 +322,7 @@
             "urlImage": "https://www.monsieurspoon.com/wp-content/uploads/2020/06/DSCF2838-01.jpg",
             "price": 75000,
             "description": "Delicious chocolate brownie served with cream.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -304,6 +331,7 @@
             "urlImage": "https://www.marcellinaincucina.com/wp-content/uploads/2017/09/mini-fruit-tarts-featured.jpg",
             "price": 60000,
             "description": "A fresh fruit tart with a crispy crust.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -312,6 +340,7 @@
             "urlImage": "https://www.splenda.com/wp-content/uploads/2020/05/american-classic-cheesecake-thumb.jpg",
             "price": 80000,
             "description": "Rich and creamy cheesecake.",
+            "inStock": true,
             "customization": []
           },
           {
@@ -320,6 +349,7 @@
             "urlImage": "https://kurio-img.kurioapps.com/20/10/07/583a7200-2b29-4586-91ab-e7999dc9f4a2.jpeg",
             "price": 70000,
             "description": "Delicate Italian panna cotta.",
+            "inStock": true,
             "customization": []
           }
         ]
