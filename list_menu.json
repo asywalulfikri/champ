@@ -21,8 +21,10 @@
             "inStock": true,
             "customization": [
               {
+                "customId": "f4b3d2f6-cewfijeofij",
                 "title": "Add On Sugar",
                 "note": "Tidak Wajib, maks 1",
+                "require":false,
                 "type": "checkbox",
                 "request": [
                   {
@@ -37,10 +39,31 @@
                   }
                 ]
               },
+               {
+                "customId": "f4b3d2f6-cewf40w9ug0difjijeofij",
+                "title": "Tambah Pedas",
+                "note": "Tidak Wajib, maks 1",
+                "require":false,
+                "type": "checkbox",
+                "request": [
+                  {
+                    "customId":"802vshvoihq3u34092j",
+                    "value": "Normal",
+                    "price": 0
+                  },
+                  {
+                     "customId":"802vshvoihfewfw3ru09egfwe",
+                    "value": "Cabel Level 3",
+                    "price": 7000
+                  }
+                ]
+              },
               {
+                "customId": "f4b3d2f6-cewwegijscovnofijeofij",
                 "title": "Request Milk",
                 "note": "Pilih 1",
                 "type": "Radio Button",
+                "require":true,
                 "request": [
                   {
                     "customId":"wt89yu9w8g98802vshvoihq3uj",
