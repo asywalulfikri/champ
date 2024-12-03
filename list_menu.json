@@ -28,12 +28,12 @@
                 "type": "checkbox",
                 "request": [
                   {
-                    "customId":"802vshvoihq3uj",
+                    "requetId":"802vshvoihq3uj",
                     "value": "stevia",
                     "price": 5000
                   },
                   {
-                     "customId":"802vshvoihfewfwegfwe",
+                    "requetId":"802vshvoihfewfwegfwe",
                     "value": "Tropica Slim",
                     "price": 7000
                   }
@@ -47,12 +47,12 @@
                 "type": "checkbox",
                 "request": [
                   {
-                    "customId":"802vshvoihq3u34092j",
+                    "requetId":"802vshvoihq3u34092j",
                     "value": "Normal",
                     "price": 0
                   },
                   {
-                     "customId":"802vshvoihfewfw3ru09egfwe",
+                    "requetId":"802vshvoihfewfw3ru09egfwe",
                     "value": "Cabel Level 3",
                     "price": 7000
                   }
@@ -66,17 +66,17 @@
                 "require":true,
                 "request": [
                   {
-                    "customId":"wt89yu9w8g98802vshvoihq3uj",
+                    "requetId":"wt89yu9w8g98802vshvoihq3uj",
                     "value": "No Milk",
                     "price": 0
                   },
                   {
-                    "customId":"xcvkmewgojbdnkn802vshvoihq3uj",
+                    "requetId":"xcvkmewgojbdnkn802vshvoihq3uj",
                     "value": "Normal Milk",
                     "price": 0
                   },
                   {
-                    "customId":"80f9w8t09vajnqfojeoj2vshvoihq3uj",
+                    "requetId":"80f9w8t09vajnqfojeoj2vshvoihq3uj",
                     "value": "Extra Milk",
                     "price": 10000
                   }
