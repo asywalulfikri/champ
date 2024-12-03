@@ -23,13 +23,19 @@
               {
                 "customId": "f4b3d2f6-cewfijeofij",
                 "title": "Add On Sugar",
-                "note": "Tidak Wajib, maks 1",
-                "require":false,
+                "note": "Wajib, maks 1",
+                "required":true,
                 "type": "checkbox",
                 "request": [
+
                   {
                     "requetId":"802vshvoihq3uj",
-                    "value": "stevia",
+                    "value": "Sedikit Gula",
+                    "price": 0
+                  },
+{
+                    "requetId":"802vsh98y98u8voihq3uj",
+                    "value": "Gula Standar",
                     "price": 5000
                   },
                   {
@@ -42,8 +48,8 @@
                {
                 "customId": "f4b3d2f6-cewf40w9ug0difjijeofij",
                 "title": "Tambah Pedas",
-                "note": "Tidak Wajib, maks 1",
-                "require":false,
+                "note": "Tidak Wajib",
+                "required":false,
                 "type": "checkbox",
                 "request": [
                   {
@@ -61,9 +67,9 @@
               {
                 "customId": "f4b3d2f6-cewwegijscovnofijeofij",
                 "title": "Request Milk",
-                "note": "Pilih 1",
+                "note": "Pilih 1 Wajib",
                 "type": "Radio Button",
-                "require":true,
+                "required":true,
                 "request": [
                   {
                     "requetId":"wt89yu9w8g98802vshvoihq3uj",
