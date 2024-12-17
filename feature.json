@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "responseCode": "200",
+    "responseMessage": "Success"
+  },
+  "data": [
+    {
+      "id": "1",
+      "name": "Pengantaran",
+      "urlImage": "https://www.champ-group.com/wp-content/uploads/2024/04/2560-x-1067-Banner-Web-CR-01-1536x640.jpg",
+      "type": ""
+    },
+    {
+      "id": "2",
+      "name": "Jemput",
+      "urlImage": "https://www.champ-group.com/wp-content/uploads/2024/04/2560-x-1067-Banner-Web-CR-01-1536x640.jpg",
+      "type": ""
+    },
+    {
+      "id": "3",
+      "name": "Reservasi",
+      "urlImage": "https://www.champ-group.com/wp-content/uploads/2024/04/2560-x-1067-Banner-Web-CR-01-1536x640.jpg",
+      "type": ""
+    },
+    {
+      "id": "4",
+      "name": "Dine In",
+      "urlImage": "https://www.champ-group.com/wp-content/uploads/2024/04/2560-x-1067-Banner-Web-CR-01-1536x640.jpg",
+      "type": ""
+    }
+  ]
+}
