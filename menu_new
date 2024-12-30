@@ -1,0 +1,130 @@
+{
+    "meta": {
+        "responseCode": "S1-200-000",
+        "responseMessage": "Success"
+    },
+    "data": {
+        "outlet": {
+            "id": 1,
+            "outletCode": "GKN-JKT-001",
+            "brandName": "Gokana Ramen & Teppan",
+            "outletName": "Gokana Mall Kelapa Gading",
+            "brandLogo": "https://storage.com/gokana-logo.png",
+            "address": "Mall Kelapa Gading Lt. 3",
+            "estimateTime": "31-45 min"
+        },
+        "categories": [
+            {
+                "categoryName": "Main Course",
+                "outletMenus": [
+                    {
+                        "menuCode": "GKN-MENU-001",
+                        "menuName": "Chicken Katsu Ramen",
+                        "description": "Japanese style ramen with chicken katsu",
+                        "price": 45000,
+                        "imgUrl": "https://baikal.ottodigital.id/cri//dev/images//brand_Raa Chaa Edit",
+                        "modifierCategories": [
+                            {
+                                "name": "Noodle Type",
+                                "isMandatory": true,
+                                "modifiers": [
+                                    {
+                                        "modifierCode": "MOD-001",
+                                        "name": "Thin Noodle",
+                                        "price": 0,
+                                        "isRequired": true,
+                                        "groupId": 1
+                                    },
+                                    {
+                                        "modifierCode": "MOD-002",
+                                        "name": "Thick Noodle",
+                                        "price": 0,
+                                        "isRequired": false,
+                                        "groupId": 1
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "menuCode": "GKN-MENU-002",
+                        "menuName": "Beef Teriyaki",
+                        "description": "Sliced beef with teriyaki sauce",
+                        "price": 50000,
+                        "imgUrl": "https://baikal.ottodigital.id/cri//dev/images//brand_Raa Chaa Edit",
+                        "modifierCategories": [
+                            {
+                                "name": "Extra Topping",
+                                "isMandatory": false,
+                                "modifiers": [
+                                    {
+                                        "modifierCode": "MOD-003",
+                                        "name": "Extra Chashu",
+                                        "price": 15000,
+                                        "isRequired": false,
+                                        "groupId": 2
+                                    },
+                                    {
+                                        "modifierCode": "MOD-004",
+                                        "name": "Extra Egg",
+                                        "price": 8000,
+                                        "isRequired": false,
+                                        "groupId": 2
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Spiciness Level",
+                                "isMandatory": true,
+                                "modifiers": [
+                                    {
+                                        "modifierCode": "MOD-005",
+                                        "name": "Not Spicy",
+                                        "price": 0,
+                                        "isRequired": true,
+                                        "groupId": 3
+                                    },
+                                    {
+                                        "modifierCode": "MOD-006",
+                                        "name": "Medium Spicy",
+                                        "price": 0,
+                                        "isRequired": false,
+                                        "groupId": 3
+                                    },
+                                    {
+                                        "modifierCode": "MOD-007",
+                                        "name": "Extra Spicy",
+                                        "price": 0,
+                                        "isRequired": false,
+                                        "groupId": 3
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "categoryName": "Side Dish",
+                "outletMenus": [
+                    {
+                        "menuCode": "GKN-MENU-003",
+                        "menuName": "Tori Kara Age",
+                        "description": "Japanese fried chicken",
+                        "price": 35000,
+                        "imgUrl": "https://baikal.ottodigital.id/cri//dev/images//brand_Raa Chaa Edit",
+                        "modifierCategories": null
+                    },
+                     {
+                        "menuCode": "GKN-MENU-009",
+                        "menuName": "Tori Tori Cheese",
+                        "description": "Japanese fried Rebus",
+                        "price": 30000,
+                        "imgUrl": "https://baikal.ottodigital.id/cri//dev/images//brand_Raa Chaa Edit",
+                        "modifierCategories": null
+                    }
+                ]
+            }
+        ]
+    }
+}
