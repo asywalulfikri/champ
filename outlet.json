@@ -1,78 +1,36 @@
 {
-  "meta": {
-    "responseCode": "200",
-    "responseMessage": "Success"
-  },
-  "data": {
-    "resource": "svc-bo",
-    "type": "list",
-    "operation": "get all outlet",
-    "result": [
-      {
-        "outletId": "1",
-        "outletName": "Monsieur Spoon",
-        "location": "Kota Casablanka",
-        "latitude": -6.2242362,
-        "longitude": 106.8393997,
-        "description": "Toko Kue",
-        "address": "Kota Kasablanka, Menteng Dalam, Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12960",
-        "banner": "https://i.ytimg.com/vi/Ue31-2wop4U/maxresdefault.jpg",
-        "urlImage": "https://galaxymall.co.id/wp-content/uploads/2024/01/MONSIEUR_SPOON_LOGO.jpg",
-        "distance": "4.5 Km",
-        "duration": "25-30 Menit"
-      },
-      {
-        "outletId": "2",
-        "outletName": "Croco",
-        "location": "Kota Casablanka",
-        "latitude": -6.2246063,
-        "longitude": 106.7277575,
-        "description": "Sarapan Enak",
-        "address": "Kota Kasablanka Lantai GF No. 23a, Jalan Casablanca No.88, Jl. Raya Casablanca No.88 23a, RT.14/RW.5, Menteng Dalam, Kec. Tebet, Kota Jakarta Selatan",
-        "banner": "https://i.ytimg.com/vi/Ue31-2wop4U/maxresdefault.jpg",
-        "urlImage": "https://plaza-ambarrukmo.co.id/wp-content/uploads/2024/05/GF-Croco.png",
-        "distance": "4.5 Km",
-        "duration": "20-35 Menit"
-      },
-      {
-        "outletId": "3",
-        "outletName": "Gokana",
-        "location": "Kota Casablanka",
-        "latitude": -6.2246063,
-        "longitude": 106.7277575,
-        "description": "Jepang , Mie",
-        "address": "Jl. Nasional 1 No.RT 008, RT.008/RW.004, Jatibening Baru, Kec. Pd. Gede, Kota Bks, Jawa Barat",
-        "banner": "https://i.ytimg.com/vi/Ue31-2wop4U/maxresdefault.jpg",
-        "urlImage": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/9fbe483b-49c3-4a9a-be66-6c6a3e15c5ce_brand-logo_1674025677471.jpg",
-        "distance": "2.5 Km",
-        "duration": "20-35 Menit"
-      },
-      {
-        "outletId": "4",
-        "outletName": "Grill Man",
-        "location": "Kota Casablanka",
-        "latitude": -6.2246063,
-        "longitude": 106.7277575,
-        "description": "Bakar Bakaran",
-        "address": "Kota Kasablanka Lantai GF No. 23a, Jalan Casablanca No.88, Jl. Raya Casablanca No.88 23a, RT.14/RW.5, Menteng Dalam, Kec. Tebet, Kota Jakarta Selatan",
-        "banner": "https://i.ytimg.com/vi/Ue31-2wop4U/maxresdefault.jpg",
-        "urlImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBS91AQqVmbiRiZ-QlJBZNkw0wkbH0NXSJLqxWH0IEDTSVc5BoBmKOaTSkmj7xqE8j8QRhUwxAfkm9i5vGP4MrMton_Zywn1LMqnHOlWaNuyNhLh-vClvfP6q4lGS7GUt_3BFaMdleK_2XKRrwqErDrnliuMXd3150GaCpHlI1HTDU290Mo4sokEiDrCk/s1600/grill.png",
-        "distance": "3.5 Km",
-        "duration": "20-35 Menit"
-      },
-      {
-        "outletId": "5",
-        "outletName": "Platinum",
-        "location": "Kuningan",
-        "latitude": -6.2246063,
-        "longitude": 106.7277575,
-        "description": "Premium Food",
-        "address": "Kota Kasablanka Lantai GF No. 23a, Jalan Casablanca No.88, Jl. Raya Casablanca No.88 23a, RT.14/RW.5, Menteng Dalam, Kec. Tebet, Kota Jakarta Selatan",
-        "banner": "https://i.ytimg.com/vi/Ue31-2wop4U/maxresdefault.jpg",
-        "urlImage": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/2cacb853-e0d1-432c-9698-2656079be58b_brand-logo_1729155938717.jpg",
-        "distance": "3.5 Km",
-        "duration": "20-35 Menit"
-      }
+    "meta": {
+        "responseCode": "S1-200-000",
+        "responseMessage": "Success"
+    },
+    "data": [
+        {
+            "id": 1,
+            "code": "GKN-JKT-001",
+            "outletName": "Gokana Mall Kelapa Gading",
+            "imgUrl": "https://storage.com/gokana-logo.png",
+            "active": true,
+            "isAvailable": false,
+            "openTime": "10:00",
+            "closeTime": "15:00",
+            "distanceMeters": 882.43455779,
+            "distanceKm": 0.88243455779,
+            "estimateTime": "5-10 min",
+            "serviceName": "Delivery"
+        },
+        {
+            "id": 2,
+            "code": "GKN-JKT-002",
+            "outletName": "Gokana Green Pramuka",
+            "imgUrl": "https://storage.com/gokana-logo.png",
+            "active": true,
+            "isAvailable": true,
+            "openTime": "01:00",
+            "closeTime": "21:00",
+            "distanceMeters": 5467.78739412,
+            "distanceKm": 5.467787394119999,
+            "estimateTime": "11-20 min",
+            "serviceName": "Delivery"
+        }
     ]
-  }
 }
