@@ -1,32 +1,32 @@
 {
-  "meta": {
-    "responseCode": "200",
-    "responseMessage": "Success"
-  },
-  "data": [
-    {
-      "id": "1",
-      "name": "Pengantaran",
-      "urlImage": "https://blogger.googleusercontent.com/img/a/AVvXsEi7Q33G13f8clBOJQ_sbu5QMFjpQzsI_NfU6_duiDNz0n9Er6yKEUmjs_D_mIWyfkn0sxhGVyEsKaGuj3SdrdnbOsIhwgXn8dWPHeVLABYaknSQs9kCafOMH2-WPXVRNWIRattmKDC-cc-eAre98L5msVMCgeehV9ynHm1hlOUy8EBvzzWQzsABwYm-SAs",
-      "type": "delivery"
+    "meta": {
+        "responseCode": "S1-200-000",
+        "responseMessage": "Success"
     },
-    {
-      "id": "2",
-      "name": "Jemput",
-      "urlImage": "https://blogger.googleusercontent.com/img/a/AVvXsEigxZnkDF6kfRavzOEH4qhBNwX7a8PBXMgd5FfDJ8IIZ68gDMSRaYvIwepiNlPlYmobJColRruM79P9L5d_2ulSBHTvthydy7isLcIQFD1ZtcPky2J2y_cC6I7MjOJh6qvdIC0T74G-aQENUR40e6I7Le0BmIY6CvQe7yq9-qGJB5DAkND1l4qEdCcpu6E",
-      "type": "pickup"
-    },
-    {
-      "id": "3",
-      "name": "Reservasi",
-      "urlImage": "https://blogger.googleusercontent.com/img/a/AVvXsEiicZMNSsxR6n0cdzVXcmOtPQHdtMp7j2hv6F3njDxkvEkpxek3ggnPPO-ytqVfMibupr8H_pOVYqIDDfrAMh8vFhayK3AWqwGHxvvai9Gbthiumb63B-RP4b4EmWK4TkQp4goPTmHOojKUUMAi3XjwlTmhrRxkwXULx8zytVBz5oIFVWWBLaLomrEq6dg",
-      "type": "reservation"
-    },
-    {
-      "id": "4",
-      "name": "Dine In",
-      "urlImage": "https://blogger.googleusercontent.com/img/a/AVvXsEhecDSBNcCZlIfGsMn-FVaBKKeLd4aiuLFPVTIcoOevpz6f28ox_sK0QLwtIO7hp9qF2GG1AWve0FANGQrwsXu_RelJ98fOHM-adCzlVlCT8vqLgMIWGsHTaSUOFs5iF_-Vu9C-nMs3Hgk10Ip4EQbN0XkAHB9iM0QMFMQftrW31ypkwgFtZ6LsYaU_ViE",
-      "type": "dinein"
-    }
-  ]
+    "data": [
+        {
+            "id": 2,
+            "sequence": 2,
+            "name": "Pickup",
+            "imgUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEigxZnkDF6kfRavzOEH4qhBNwX7a8PBXMgd5FfDJ8IIZ68gDMSRaYvIwepiNlPlYmobJColRruM79P9L5d_2ulSBHTvthydy7isLcIQFD1ZtcPky2J2y_cC6I7MjOJh6qvdIC0T74G-aQENUR40e6I7Le0BmIY6CvQe7yq9-qGJB5DAkND1l4qEdCcpu6E"
+        },
+        {
+            "id": 4,
+            "sequence": 3,
+            "name": "Reservation",
+            "imgUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiicZMNSsxR6n0cdzVXcmOtPQHdtMp7j2hv6F3njDxkvEkpxek3ggnPPO-ytqVfMibupr8H_pOVYqIDDfrAMh8vFhayK3AWqwGHxvvai9Gbthiumb63B-RP4b4EmWK4TkQp4goPTmHOojKUUMAi3XjwlTmhrRxkwXULx8zytVBz5oIFVWWBLaLomrEq6dg"
+        },
+        {
+            "id": 1,
+            "sequence": 4,
+            "name": "Dine In",
+            "imgUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhecDSBNcCZlIfGsMn-FVaBKKeLd4aiuLFPVTIcoOevpz6f28ox_sK0QLwtIO7hp9qF2GG1AWve0FANGQrwsXu_RelJ98fOHM-adCzlVlCT8vqLgMIWGsHTaSUOFs5iF_-Vu9C-nMs3Hgk10Ip4EQbN0XkAHB9iM0QMFMQftrW31ypkwgFtZ6LsYaU_ViE"
+        },
+        {
+            "id": 3,
+            "sequence": 1,
+            "name": "Delivery",
+            "imgUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEi7Q33G13f8clBOJQ_sbu5QMFjpQzsI_NfU6_duiDNz0n9Er6yKEUmjs_D_mIWyfkn0sxhGVyEsKaGuj3SdrdnbOsIhwgXn8dWPHeVLABYaknSQs9kCafOMH2-WPXVRNWIRattmKDC-cc-eAre98L5msVMCgeehV9ynHm1hlOUy8EBvzzWQzsABwYm-SAs"
+        }
+    ]
 }
