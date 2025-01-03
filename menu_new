@@ -61,7 +61,7 @@
                                         "modifierCode": "MOD-003",
                                         "name": "Extra Chashu",
                                         "price": 25000,
-                                        "isRequired": false,
+                                        "isRequired": true,
                                         "groupId": 2
                                     },
                                     {
