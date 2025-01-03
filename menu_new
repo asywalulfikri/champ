@@ -68,7 +68,7 @@
                                         "modifierCode": "MOD-004",
                                         "name": "Extra Egg",
                                         "price": 8000,
-                                        "isRequired": false,
+                                        "isRequired": true,
                                         "groupId": 2
                                     }
                                 ]
