@@ -108,7 +108,7 @@
                 "categoryName": "Side Dish",
                 "outletMenus": [
                     {
-                        "menuCode": "GKN-MENU-003",
+                        "menuCode": "GKN-MENU-00123",
                         "menuName": "Tori Kara Age",
                         "description": "Japanese fried chicken",
                         "price": 45000,
