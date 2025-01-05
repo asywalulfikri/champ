@@ -9,7 +9,7 @@
             "outletCode": "GKN-JKT-001",
             "brandName": "Gokana Ramen & Teppan",
             "outletName": "Gokana Mall Kelapa Gading",
-            "brandLogo": "https://www.bca.co.id/-/media/Feature/Promo/Page/2024/06/20240624-gokana-banner.jpg?v=1",
+            "brandLogo": "https://static.wikia.nocookie.net/logopedia/images/7/76/Gokana_Logo.png/revision/latest?cb=20230211130233",
             "address": "Mall Kelapa Gading Lt. 3",
             "estimateTime": "31-45 min"
         },
@@ -60,7 +60,7 @@
                                     {
                                         "modifierCode": "MOD-003",
                                         "name": "Extra Chashu",
-                                        "price": 30000,
+                                        "price": 15000,
                                         "isRequired": false,
                                         "groupId": 2
                                     },
@@ -68,7 +68,7 @@
                                         "modifierCode": "MOD-004",
                                         "name": "Extra Egg",
                                         "price": 8000,
-                                        "isRequired": true,
+                                        "isRequired": false,
                                         "groupId": 2
                                     }
                                 ]
@@ -112,22 +112,6 @@
                         "menuName": "Tori Kara Age",
                         "description": "Japanese fried chicken",
                         "price": 35000,
-                        "imgUrl": "https://baikal.ottodigital.id/cri//dev/images//brand_Raa Chaa Edit",
-                        "modifierCategories": null
-                    },
-                     {
-                        "menuCode": "GKN-MENU-00100",
-                        "menuName": "Ramen Ya",
-                        "description": "Japanese Ramen",
-                        "price": 20000,
-                        "imgUrl": "https://baikal.ottodigital.id/cri//dev/images//brand_Raa Chaa Edit",
-                        "modifierCategories": null
-                    },
-                     {
-                        "menuCode": "GKN-MENU-009",
-                        "menuName": "Tori Tori Cheese",
-                        "description": "Japanese fried Rebus",
-                        "price": 30000,
                         "imgUrl": "https://baikal.ottodigital.id/cri//dev/images//brand_Raa Chaa Edit",
                         "modifierCategories": null
                     }
