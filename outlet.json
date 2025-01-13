@@ -3,34 +3,5 @@
         "responseCode": "S1-200-000",
         "responseMessage": "Success"
     },
-    "data": [
-        {
-            "id": 1,
-            "code": "GKN-JKT-001",
-            "outletName": "Gokana Mall Kelapa Gading",
-            "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/9fbe483b-49c3-4a9a-be66-6c6a3e15c5ce_brand-logo_1674025677471.jpg",
-            "active": true,
-            "isAvailable": false,
-            "openTime": "10:00",
-            "closeTime": "15:00",
-            "distanceMeters": 882.43455779,
-            "distanceKm": 0.88243455779,
-            "estimateTime": "5-10 min",
-            "serviceName": "Delivery"
-        },
-        {
-            "id": 2,
-            "code": "GKN-JKT-002",
-            "outletName": "Gokana Green Pramuka",
-            "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/9fbe483b-49c3-4a9a-be66-6c6a3e15c5ce_brand-logo_1674025677471.jpg",
-            "active": true,
-            "isAvailable": true,
-            "openTime": "01:00",
-            "closeTime": "21:00",
-            "distanceMeters": 5467.78739412,
-            "distanceKm": 5.467787394119999,
-            "estimateTime": "11-20 min",
-            "serviceName": "Delivery"
-        }
-    ]
+    "data": []
 }
