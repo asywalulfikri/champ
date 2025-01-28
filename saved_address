@@ -8,7 +8,8 @@
       "id": 1,
       "addressName": "Kantor",
       "addressDetail": "Jln KH Noer ALi No 6 D Bekasi Barat",
-      "receiver": "Ali Imran",
+      "formattedAddress": "Jln KH Noer ALi No 6 D Bekasi Barat",
+      "receiverName": "Ali Imran",
       "phoneNumber": "6282298099577",
       "latitude": "",
       "longitude": ""
@@ -17,7 +18,8 @@
       "id": 2,
       "addressName": "Rumah",
       "addressDetail": "Jln Bintara 8 , gg sadar 2 ,bekasi barat",
-      "receiver": "Siti Badriah",
+      "formattedAddress": "Jln KH Noer ALi No 6 D Bekasi Barat",
+      "receiverName": "Ali Imran",
       "phoneNumber": "6282298099577",
       "latitude": "",
       "longitude": ""
@@ -26,7 +28,8 @@
       "id": 3,
       "addressName": "RUmah Nenek",
       "addressDetail": "Jln KH Noer ALi No 6 D Bekasi Barat",
-      "receiver": "Asep Nurjaman",
+      "formattedAddress": "Jln KH Noer ALi No 6 D Bekasi Barat",
+      "receiverName": "Ali Imran",
       "phoneNumber": "6282298099577",
       "latitude": "",
       "longitude": ""
@@ -35,7 +38,8 @@
       "id": 4,
       "addressName": "Kantor",
       "addressDetail": "Jln Petamburan Raya No 10 X",
-      "receiver": "Titik mela sari",
+      "formattedAddress": "Jln KH Noer ALi No 6 D Bekasi Barat",
+      "receiverName": "Ali Imran",
       "phoneNumber": "6282298099577",
       "latitude": "",
       "longitude": ""
