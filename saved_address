@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "responseCode": "S1-200-000",
+    "responseMessage": "Success"
+  },
+  "data": [
+    {
+      "id": 1,
+      "addressName": "Kantor",
+      "addressDetail": "Jln KH Noer ALi No 6 D Bekasi Barat",
+      "receiver": "Ali Imran",
+      "phoneNumber": "6282298099577",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "id": 2,
+      "addressName": "Rumah",
+      "addressDetail": "Jln Bintara 8 , gg sadar 2 ,bekasi barat",
+      "receiver": "Siti Badriah",
+      "phoneNumber": "6282298099577",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "id": 3,
+      "addressName": "RUmah Nenek",
+      "addressDetail": "Jln KH Noer ALi No 6 D Bekasi Barat",
+      "receiver": "Asep Nurjaman",
+      "phoneNumber": "6282298099577",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "id": 4,
+      "addressName": "Kantor",
+      "addressDetail": "Jln Petamburan Raya No 10 X",
+      "receiver": "Titik mela sari",
+      "phoneNumber": "6282298099577",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}
