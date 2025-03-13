@@ -1,33 +1,33 @@
 {
   "meta": {
-    "responseCode": "200",
+    "responseCode": "S1-200-000",
     "responseMessage": "Success"
   },
   "data": [
     {
-      "name": "promo 1",
-      "imgUrl": "https://www.champ-group.com/wp-content/uploads/2024/04/2560-x-1067-Banner-Web-CR-01-1536x640.jpg",
-      "deepLink": ""
+      "name": "Champ 2",
+      "imgUrl": "https://baikal.ottodigital.id/omega/dev/banner/380x160 Home Slide Banner CSA_Delivery.jpg",
+      "deeplink": ""
     },
     {
-      "name": "promo 1",
-      "imgUrl": "https://www.champ-group.com/wp-content/uploads/2024/04/2560-x-1067-Banner-Web-CR-01-1536x640.jpg",
-      "deepLink": ""
+      "name": "Champ 3",
+      "imgUrl": "https://baikal.ottodigital.id/omega/dev/banner/380x160 Home Slide Banner CSA_Dine and Earn.jpg",
+      "deeplink": ""
     },
     {
-      "name": "promo 1",
-      "imgUrl": "https://www.champ-group.com/wp-content/uploads/2024/04/2560-x-1067-Banner-Web-CR-01-1536x640.jpg",
-      "deepLink": ""
+      "name": "Champ 4",
+      "imgUrl": "https://baikal.ottodigital.id/omega/dev/banner/380x160 Home Slide Banner CSA_Welcome to.jpg",
+      "deeplink": ""
     },
     {
-      "name": "promo 4",
-      "imgUrl": "https://www.champ-group.com/wp-content/uploads/2024/04/2560-x-1067-Banner-Web-CR-01-1536x640.jpg",
-      "deepLink": ""
+      "name": "Champ 5",
+      "imgUrl": "https://baikal.ottodigital.id/omega/dev/banner/380x160 Home Slide Banner CSA-01.jpg",
+      "deeplink": ""
     },
     {
-      "imgUrl": "promo 4",
-      "urlImage": "https://www.champ-group.com/wp-content/uploads/2024/04/2560-x-1067-Banner-Web-CR-01-1536x640.jpg",
-      "deepLink": ""
+      "name": "Champ 1",
+      "imgUrl": "https://baikal.ottodigital.id/minio/ui/api/v1/buckets/omega/objects/download?preview=true&prefix=dev%2Fbanner%2F380x160%20Home%20Slide%20Banner%20CSA_50%25%20copy.png&version_id=null",
+      "deeplink": ""
     }
   ]
 }
