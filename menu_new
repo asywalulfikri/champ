@@ -11,7 +11,8 @@
             "outletName": "Gokana Mall Kelapa Gading",
             "brandLogo": "https://static.wikia.nocookie.net/logopedia/images/7/76/Gokana_Logo.png/revision/latest?cb=20230211130233",
             "address": "Mall Kelapa Gading Lt. 3",
-            "estimateTime": "31-45 min"
+            "estimateTime": "31-45 min",
+            "isavailable": "true",
         },
         "categories": [
             {
