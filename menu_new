@@ -13,7 +13,9 @@
             "address": "Mall Kelapa Gading Lt. 3",
             "estimateTime": "31-45 min",
             "isavailable": "true",
-            "backgroundImgUrl: "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/4c13fac7-1f12-43c9-8dfc-66b3173e615e_brand-image_1727664401050.jpg"
+            "opening": "08:00",
+            "closing": "23:00",
+            "backgroundImgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/4c13fac7-1f12-43c9-8dfc-66b3173e615e_brand-image_1727664401050.jpg"
         },
         "categories": [
             {
