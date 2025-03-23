@@ -12,7 +12,7 @@
             "brandLogo": "https://static.wikia.nocookie.net/logopedia/images/7/76/Gokana_Logo.png/revision/latest?cb=20230211130233",
             "address": "Mall Kelapa Gading Lt. 3",
             "estimateTime": "31-45 min",
-            "isAvailable": "true",
+            "isAvailable": true,
             "opening": "08:00",
             "closing": "23:00",
             "backgroundImgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/4c13fac7-1f12-43c9-8dfc-66b3173e615e_brand-image_1727664401050.jpg"
